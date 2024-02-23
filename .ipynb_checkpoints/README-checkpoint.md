@@ -1,2 +1,2 @@
-# hello-world
-This is a repository
+# hello-class
+This is a repository or is it
